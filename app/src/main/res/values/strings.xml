@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="first_grade">1° Nota</string>
+    <string name="second_grade">2° Nota</string>
+    <string name="absents">N° de Faltas</string>
+    <string name="calc">Calcular</string>
+    <string name="cancel">Cancelar</string>
+    <string name="approved">Aluno aprovado</string>
+    <string name="disapproved">Aluno reprovado</string>
+</resources>
